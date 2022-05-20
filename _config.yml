@@ -1,9 +1,12 @@
 title: "Tarctic's life"
 author: Tarctic
 email: zainab7@amityonline.com
-theme: minimia
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  Water good
+  This description is to inform the readers of this made-up website
+  that you are quite unlucky to have stumbled on this page from which
+  you will learn little to nothing that you could use in your life.
+  But then again, what is life?
 
 # social links
 # twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
